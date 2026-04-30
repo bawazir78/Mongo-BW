@@ -180,7 +180,7 @@ app.get('/DelArticale/:Artical_ID', async (req, res) => {
 });
 
 
-
+console.log("test")
 
 app.get('/showArticale', async (req, res) => {
     try {
